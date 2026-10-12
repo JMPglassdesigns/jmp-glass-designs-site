@@ -131,7 +131,7 @@
       window.location.href = "mailto:" + form.dataset.email +
         "?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(body);
       document.getElementById("form-note").textContent =
-        "Your email app should open now. If it doesn't, email jmpdesignsco@gmail.com directly.";
+        "Your email app should open now. If it doesn't, email julietm@jmpdesignsco.com directly.";
     });
   }
 })();

@@ -31,7 +31,7 @@ Apart from Juliet's own logo, all the imagery is generated abstract texture. The
 ## Domain & contact
 
 - **Domain:** **jmpdesignsco.com**. The page already has `<link rel="canonical" href="https://jmpdesignsco.com/">`.
-- **Contact email:** **jmpdesignsco@gmail.com**. The quote form, contact section and footer all use it.
+- **Contact email:** **julietm@jmpdesignsco.com**. The quote form, contact section and footer all use it.
 
 ## Brand palette (sampled from the logo)
 
@@ -66,7 +66,7 @@ Tips: shoot in good light with the glass clean. Portrait (4:5) photos fill the t
 
 ## Contact form
 
-The form is set up as a **mailto: placeholder** for now. Pressing "Send Request" opens the visitor's own email app with a message to **jmpdesignsco@gmail.com**, already filled in with their details. It works without a server, but some visitors don't have an email app set up.
+The form is set up as a **mailto: placeholder** for now. Pressing "Send Request" opens the visitor's own email app with a message to **julietm@jmpdesignsco.com**, already filled in with their details. It works without a server, but some visitors don't have an email app set up.
 
 **TODO before launch (recommended): switch to Formspree** or a similar service so requests go straight to your inbox:
 1. Create a free form at https://formspree.io and copy its endpoint (`https://formspree.io/f/XXXXXXX`).
